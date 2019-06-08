@@ -11,13 +11,13 @@ The n-puzzle is a classical problem for modelling algorithms involving heuristic
 ### Program view
 
 [![N|Solid](https://raw.githubusercontent.com/X-Worm/GameOfFifteen/master/Resources/View.bmp)](https://github.com/X-Worm/GameOfFifteen/tree/master/Resources)
-- Shuffle button
+- Shuffle button.
 "Shuffle" key is used to mix the initial state. By default, she makes 100 shuffle, but you can specify the number of shuffles in the box opposite. 1 mixing takes place 10 ms, so 100 shuffle will be performed for 1 second. The result of mixing is recorded in a text document "Shuffle.txt".
-- Solve button
+- Solve button.
 The "Solve" key is intended to solve the problem (it allows you to find the correct path). After pressing the key in the field opposite will be shown 1 step to be implemented. Also under the key there is a field showing the number of moves to be performed. The solution is based on the mixed state, which is written in a text document "Shuffle.txt". The result is recorded in a text document "Solve.txt".
-- Next Step button
+- Next Step button.
 After receiving the result with the "Solve" key, this key allows you to view the resolution steps.
-- Play Move with time step button
+- Play Move with time step button.
 This key shows all the steps of the solution with the given time, the time is set in the field opposite the key.
 
 
