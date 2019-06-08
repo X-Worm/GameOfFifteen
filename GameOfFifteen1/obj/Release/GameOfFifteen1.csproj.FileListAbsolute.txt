@@ -1,0 +1,10 @@
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\bin\Release\GameOfFifteen1.exe.config
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\bin\Release\GameOfFifteen1.exe
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\bin\Release\GameOfFifteen1.pdb
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.Form1.resources
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.Properties.Resources.resources
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.csproj.GenerateResource.cache
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.exe
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.pdb
+C:\Users\Василь\source\repos\GameOfFifteen1\GameOfFifteen1\obj\Release\GameOfFifteen1.csprojAssemblyReference.cache
